@@ -109,6 +109,13 @@ public class Loops {
                     System.out.println(e);
                     e++;
                 }while(e>=10);
+//use cases of do while loop:
+                //webtable pagination- check if the element is present in the table,click on it
+                //go and check the element first and then start the while loop
+                //calender:
+
+                //.for each
+                // streams.
 
             }
 
